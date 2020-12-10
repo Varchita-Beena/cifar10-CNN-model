@@ -16,3 +16,5 @@ From table:- <br>
 (2) As number of epochs increase the accuracy will increase. <br>
 (3) Time taken is also less for RelU in without Batch normalization, momentum and adaptive learning rates.  <br>
 (4) For both sigmoid and tanh activation functions accuracy increases for Batch normalization, momentum and adaptive learning rates and time also increases than simple sigmoid and tanh but that is worth taking.<br>
+
+![Results](C:\Users\Varchita Lalwani\Desktop\anaysis.png)
